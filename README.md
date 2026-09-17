@@ -1,183 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:21152F,75:4B2D5E,100:9B6C91&height=220&section=header&text=CHARAN%20K.&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20%26%20DATA%20ENTHUSIAST&descAlignY=61&descSize=15&descColor=E9DCEB" width="100%"/>
+<img src="./assets/hero.svg" alt="Charan K. - Full Stack Developer" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=1000&color=C9A3C8&center=true&vCenter=true&width=620&lines=building+real+things+for+the+web.;learning+by+shipping+projects.;exploring+AI%2C+data%2C+and+backend+systems." alt="Typing animation"/>
-
-<br><br>
+<br/>
 
 <a href="https://github.com/cherry5231">
-  <img src="https://img.shields.io/badge/GitHub-11151B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-11151B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:kattacharan10flasmvp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2A1B36?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-2D193B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://career-roi-calculator.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Project-7C4D91?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<sub>building • learning • experimenting • improving</sub>
+<sub>turning ideas into interfaces • APIs into products • data into insights</sub>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ about me</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
+</div>
+
+## ✦ about me
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### Hey, I'm Charan 👋
+Hey, I'm **Charan** 👋
 
-I'm an aspiring **Full-Stack Developer** who enjoys turning ideas into useful, polished applications.
+I'm an aspiring **Full-Stack Developer** focused on building practical web applications and learning how the pieces behind them fit together.
 
-I like working across the stack — from responsive interfaces and reusable components to APIs, databases, authentication, data analysis, and practical AI integrations.
+I enjoy moving between the frontend and backend: designing responsive interfaces, building APIs, connecting databases, working with data, and experimenting with AI-powered features.
 
-My main interests are:
+### What I care about
 
-- 🌐 modern web development
-- ⚙️ backend development & APIs
-- 🗄️ databases and application architecture
-- 📊 data analysis & visualization
-- 🤖 practical AI/ML integrations
+🌐 **Modern web development**  
+⚙️ **Backend systems & APIs**  
+🗄️ **Databases & application architecture**  
+📊 **Data analysis & visualization**  
+🤖 **Practical AI/ML integration**  
 
-Right now, I'm focused on becoming stronger at building **complete, production-minded applications** rather than only isolated features.
+I'm learning by building real projects, breaking things, fixing them, and shipping what I can.
 
 </td>
-<td width="38%" align="center" valign="middle">
 
-```text
-╭────────────────────╮
-│      CHARAN K.     │
-├────────────────────┤
-│                    │
-│  code              │
-│  create            │
-│  learn             │
-│  iterate           │
-│                    │
-│  build → ship      │
-╰────────────────────╯
-```
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,flask,django&theme=dark" width="180" alt="Core technologies"/>
+
+<br/><br/>
+
+<code>BUILD → LEARN → ITERATE</code>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<h2 align="center">✦ technologies</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
+</div>
+
+## ✦ tech stack
 
 <div align="center">
 
-<h3>Frontend</h3>
+### frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend stack"/>
 
-<br><br>
+<br/><br/>
 
-<h3>Backend</h3>
+### backend
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,flask,django&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,flask,django&theme=dark" alt="Backend stack"/>
 
-<br><br>
+<br/><br/>
 
-<h3>Databases & Services</h3>
+### databases & services
 
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase&theme=dark" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase&theme=dark" alt="Database stack"/>
 
-<br><br>
+<br/><br/>
 
-<h3>Data & Visualization</h3>
+### data
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data technologies"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data stack"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-6E4B83?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4A315F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-8A5E9D?style=for-the-badge&logo=plotly&logoColor=white" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Matplotlib-2A1B36?style=for-the-badge&logo=plotly&logoColor=FFFFFF" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-2A1B36?style=for-the-badge&logoColor=FFFFFF" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-2A1B36?style=for-the-badge&logo=plotly&logoColor=FFFFFF" alt="Plotly"/>
-
-<br><br>
-
-<h3>Tools & Environment</h3>
+### tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" alt="Tools"/>
 
 </div>
 
----
-
-<h2 align="center">✦ what i build</h2>
+<br/>
 
 <div align="center">
-
-<table width="94%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🌐 Web Applications
-
-Responsive, component-driven applications with clean interfaces and practical user flows.
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### ⚙️ Backend Systems
-
-APIs, authentication, databases, server-side logic, and application architecture.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 📊 Data Projects
-
-Cleaning, exploring, analyzing, and visualizing data to make information easier to understand.
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🤖 AI-Enhanced Products
-
-Experimenting with useful AI features, automation, and intelligent workflows inside applications.
-
-</td>
-</tr>
-</table>
-
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
 </div>
 
----
-
-<h2 align="center">✦ selected projects</h2>
+## ✦ selected projects
 
 <table width="100%">
-
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Career ROI Calculator
+<img src="./assets/roi.svg" width="100%" alt="Career ROI Calculator"/>
 
-A web application that turns career and certification data into a simple ROI-style experience.
+### Career ROI Calculator
 
-**Tech:** `React` `TypeScript` `Vite` `Supabase` `Vercel`
+A career-focused web application that turns certification, income, cost, and comparison data into a simple ROI experience.
 
-<a href="https://career-roi-calculator.vercel.app/">Live Demo ↗</a>
+`React` `TypeScript` `Vite` `Supabase` `Vercel`
+
+<a href="https://career-roi-calculator.vercel.app/">↗ Live demo</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🗺️ CareerQuest
+<img src="./assets/careerquest.svg" width="100%" alt="CareerQuest"/>
 
-A career exploration and roadmap application designed around discovering possible learning paths.
+### CareerQuest
 
-**Tech:** `React` `TypeScript` `Expo` `Firebase`
+A career exploration and roadmap application built around discovering possible learning paths and organizing career information.
+
+`React` `TypeScript` `Expo` `Firebase`
 
 </td>
 </tr>
@@ -185,120 +145,114 @@ A career exploration and roadmap application designed around discovering possibl
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Flask Chat
+<img src="./assets/chat.svg" width="100%" alt="Flask Chat"/>
 
-A room-based chat application with authentication, database persistence, and private room access.
+### Flask Chat
 
-**Tech:** `Python` `Flask` `SQLite` `SQLAlchemy`
+A room-based chat application with authentication, private room codes, database persistence, and backend-driven communication.
+
+`Python` `Flask` `SQLite` `SQLAlchemy`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🕷️ Spider-Man Web Experience
+<img src="./assets/spiderman.svg" width="100%" alt="Spider-Man project"/>
 
-An interactive themed web project focused on frontend design, responsive layouts, and mobile interaction.
+### Spider-Man Web Experience
 
-**Tech:** `HTML` `CSS` `JavaScript`
+An interactive themed web project exploring responsive layouts, frontend interaction, and mobile-friendly controls.
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
-
 </table>
 
 <div align="center">
-
 <a href="https://github.com/cherry5231?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-2A1B36?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="All projects"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-2D193B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ how i work</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
+</div>
+
+## ✦ how i build
 
 <div align="center">
 
-<table width="92%">
-<tr>
-<td align="center"><b>01</b><br><sub>UNDERSTAND</sub></td>
-<td align="center">→</td>
-<td align="center"><b>02</b><br><sub>PLAN</sub></td>
-<td align="center">→</td>
-<td align="center"><b>03</b><br><sub>BUILD</sub></td>
-<td align="center">→</td>
-<td align="center"><b>04</b><br><sub>TEST</sub></td>
-<td align="center">→</td>
-<td align="center"><b>05</b><br><sub>SHIP</sub></td>
-</tr>
-</table>
+| 01 | 02 | 03 | 04 | 05 |
+|:---:|:---:|:---:|:---:|:---:|
+| **UNDERSTAND** | **PLAN** | **BUILD** | **TEST** | **SHIP** |
+| problem first | structure it | make it work | refine it | put it out |
 
-<br>
+<br/>
 
-<sub>Simple architecture • readable code • responsive UI • practical features • continuous iteration</sub>
+<sub>clean structure • responsive UI • useful features • readable code • continuous iteration</sub>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ currently learning</h2>
+## ✦ currently learning
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td align="center"><b>FULL STACK</b><br><sub>production-minded applications</sub></td>
-<td align="center"><b>BACKEND</b><br><sub>APIs & architecture</sub></td>
-<td align="center"><b>AI / ML</b><br><sub>practical integrations</sub></td>
-</tr>
-<tr>
-<td align="center"><b>DATA</b><br><sub>analysis & visualization</sub></td>
-<td align="center"><b>SYSTEM DESIGN</b><br><sub>scalable application thinking</sub></td>
-<td align="center"><b>DEPLOYMENT</b><br><sub>shipping real projects</sub></td>
-</tr>
-</table>
+`FULL-STACK DEVELOPMENT` &nbsp; `BACKEND ARCHITECTURE` &nbsp; `AI / ML`  
+`DATA VISUALIZATION` &nbsp; `SYSTEM DESIGN` &nbsp; `DEPLOYMENT`
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ beyond code</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
+</div>
+
+## ✦ beyond code
 
 <div align="center">
 
-> **“Build with curiosity. Improve with consistency.”**
+> **build with curiosity · improve with consistency · ship with purpose**
 
-<br>
+I enjoy experimenting with new technologies, exploring interesting datasets,
+turning ideas into projects, and learning through hands-on development.
 
-I enjoy experimenting with new technologies, turning small ideas into projects, exploring data, and learning by actually building things.
+<br/>
+
+🌱 learn &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 explore &nbsp;&nbsp; • &nbsp;&nbsp; 💡 build &nbsp;&nbsp; • &nbsp;&nbsp; 🚀 ship
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ connect</h2>
+<div align="center">
+<img src="./assets/divider.svg" width="90%" alt="divider"/>
+</div>
+
+## ✦ let's connect
 
 <div align="center">
 
-Open to **collaborations, development projects, learning opportunities, internships, and interesting technical problems.**
+Open to **collaborations, development projects, internships, learning opportunities, and interesting technical problems.**
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/cherry5231">
-<img src="https://img.shields.io/badge/GITHUB-11151B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-11151B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="mailto:kattacharan10flasmvp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-2A1B36?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-2D193B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
 <sub>github.com/cherry5231 • kattacharan10flasmvp@gmail.com</sub>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B6C91,45:4B2D5E,75:21152F,100:0B0F14&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B6C91,45:5A3D78,75:241536,100:0B0F14&height=130&section=footer" width="100%" alt="footer"/>
 </div>
