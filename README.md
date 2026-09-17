@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=E6A6C7&center=true&vCenter=true&width=600&lines=weaving+ai+into+everyday+products" alt="weaving ai into everyday products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=E6A6C7&center=true&vCenter=true&width=650&lines=weaving+ai+into+everyday+products" alt="weaving ai into everyday products"/>
 
 <br/>
 
@@ -222,15 +222,15 @@ An interactive themed web project exploring responsive layouts, frontend interac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/understand-EFA5A0?style=flat-square&labelColor=EFA5A0&color=EFA5A0&logoColor=white" />
-<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
-<img src="https://img.shields.io/badge/plan-D99AB5?style=flat-square&labelColor=D99AB5&color=D99AB5&logoColor=white" />
-<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
-<img src="https://img.shields.io/badge/build%20gently-BB8DAA?style=flat-square&labelColor=BB8DAA&color=BB8DAA&logoColor=white" />
-<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
-<img src="https://img.shields.io/badge/test%20%26%20refine-9B7BAF?style=flat-square&labelColor=9B7BAF&color=9B7BAF&logoColor=white" />
-<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
-<img src="https://img.shields.io/badge/deliver-7C4D91?style=flat-square&labelColor=7C4D91&color=7C4D91&logoColor=white" />
+<img src="https://img.shields.io/badge/understand-EFA5A0?style=for-the-badge&labelColor=EFA5A0&color=EFA5A0" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=for-the-badge&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/plan-D99AB5?style=for-the-badge&labelColor=D99AB5&color=D99AB5" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=for-the-badge&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/build%20gently-BB8DAA?style=for-the-badge&labelColor=BB8DAA&color=BB8DAA" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=for-the-badge&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/test%20%26%20refine-9B7BAF?style=for-the-badge&labelColor=9B7BAF&color=9B7BAF" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=for-the-badge&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/deliver-7C4D91?style=for-the-badge&labelColor=7C4D91&color=7C4D91" />
 
 <br/><br/>
 
@@ -248,9 +248,51 @@ An interactive themed web project exploring responsive layouts, frontend interac
 
 <div align="center">
 
-`FULL-STACK DEVELOPMENT` &nbsp; `BACKEND ARCHITECTURE` &nbsp; `AI / ML`  
+<table>
+<tr>
 
-`DATA VISUALIZATION` &nbsp; `SYSTEM DESIGN` &nbsp; `DEPLOYMENT`
+<td align="center">
+
+<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/BACKEND%20ARCHITECTURE-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/DEPLOYMENT-222831?style=for-the-badge&labelColor=222831&color=222831" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -266,15 +308,33 @@ An interactive themed web project exploring responsive layouts, frontend interac
 
 <div align="center">
 
-> **build with curiosity · improve with consistency · ship with purpose**
+<table width="80%">
+
+<tr>
+
+<td align="center">
+
+<br/>
+
+<sub>build with curiosity · improve with consistency · ship with purpose</sub>
+
+<br/><br/>
 
 I enjoy experimenting with new technologies, exploring interesting datasets,
 
 turning ideas into projects, and learning through hands-on development.
 
+<br/><br/>
+
+🌱 **learn** &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 **explore** &nbsp;&nbsp; • &nbsp;&nbsp; 💡 **build** &nbsp;&nbsp; • &nbsp;&nbsp; 🚀 **ship**
+
 <br/>
 
-🌱 learn &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 explore &nbsp;&nbsp; • &nbsp;&nbsp; 💡 build &nbsp;&nbsp; • &nbsp;&nbsp; 🚀 ship
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
