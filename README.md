@@ -34,7 +34,7 @@
 
 </div>
 
-## ✦ about me
+##  about me
 
 <table>
 
@@ -42,7 +42,7 @@
 
 <td width="65%" valign="top">
 
-Hey, I'm **Charan** 👋
+Hey, I'm **Charan** 
 
 I'm an aspiring **Full-Stack Developer** focused on building practical web applications and learning how the pieces behind them fit together.
 
@@ -50,15 +50,15 @@ I enjoy moving between the frontend and backend: designing responsive interfaces
 
 ### What I care about
 
-🌐 **Modern web development**  
+ **Modern web development**  
 
-⚙️ **Backend systems & APIs**  
+ **Backend systems & APIs**  
 
-🗄️ **Databases & application architecture**  
+ **Databases & application architecture**  
 
-📊 **Data analysis & visualization**  
+ **Data analysis & visualization**  
 
-🤖 **Practical AI/ML integration**  
+ **Practical AI/ML integration**  
 
 I'm learning by building real projects, breaking things, fixing them, and shipping what I can.
 
@@ -87,44 +87,59 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 </div>
 
 ## ✦ tech stack
+## ✦ tech stack
 
 <div align="center">
 
 ### frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend stack"/>
+<img src="https://img.shields.io/badge/⚛%20REACT-61DAFB?style=for-the-badge&logo=react&logoColor=11151B" />
+<img src="https://img.shields.io/badge/▲%20ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/▼%20VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/◉%20NEXT.JS-11151B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TS%20TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JS%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=11151B" />
 
 <br/><br/>
 
-### backend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/〰%20TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/▣%20BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,flask,django&theme=dark" alt="Backend stack"/>
+<br/><br/><br/>
 
-<br/><br/>
+### backend & databases
 
-### databases & services
-
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase&theme=dark" alt="Database stack"/>
-
-<br/><br/>
-
-### data
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data stack"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Matplotlib-6E4B83?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Seaborn-4A315F?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Plotly-8A5E9D?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/⬡%20NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/◒%20FLASK-11151B?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/dj%20DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/><br/>
 
-### tools
+<img src="https://img.shields.io/badge/◉%20REST%20APIS-BB8DAA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/▰%20SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/◉%20FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=11151B" />
+<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=11151B" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" alt="Tools"/>
+<br/><br/><br/>
+
+### data, ai & tools
+
+<img src="https://img.shields.io/badge/◈%20NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/▥%20PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/▥%20MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/▥%20PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-8A5E9D?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/⌘%20GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br/><br/>
 
 </div>
 
@@ -135,16 +150,6 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
 
 </div>
-
-## ✦ selected projects
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="./assets/roi.svg" width="100%" alt="Career ROI Calculator"/>
 
 ### Career ROI Calculator
 
