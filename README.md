@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/intro.svg" alt="weaving ai into everyday products" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=E6A6C7&center=true&vCenter=true&width=600&lines=weaving+ai+into+everyday+products" alt="weaving ai into everyday products"/>
 
 <br/>
 
@@ -222,57 +222,17 @@ An interactive themed web project exploring responsive layouts, frontend interac
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center">
+<img src="https://img.shields.io/badge/understand-EFA5A0?style=flat-square&labelColor=EFA5A0&color=EFA5A0&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/plan-D99AB5?style=flat-square&labelColor=D99AB5&color=D99AB5&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/build%20gently-BB8DAA?style=flat-square&labelColor=BB8DAA&color=BB8DAA&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/test%20%26%20refine-9B7BAF?style=flat-square&labelColor=9B7BAF&color=9B7BAF&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%86%92-11151B?style=flat-square&labelColor=11151B&color=11151B" />
+<img src="https://img.shields.io/badge/deliver-7C4D91?style=flat-square&labelColor=7C4D91&color=7C4D91&logoColor=white" />
 
-**understand**
-
-</td>
-
-<td align="center">
-→
-</td>
-
-<td align="center">
-
-**plan**
-
-</td>
-
-<td align="center">
-→
-</td>
-
-<td align="center">
-
-**build gently**
-
-</td>
-
-<td align="center">
-→
-</td>
-
-<td align="center">
-
-**test & refine**
-
-</td>
-
-<td align="center">
-→
-</td>
-
-<td align="center">
-
-**deliver**
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <sub>problem first • structure it • make it work • refine it • put it out</sub>
 
