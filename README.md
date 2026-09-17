@@ -330,7 +330,7 @@ turning ideas into projects, and learning through hands-on development.
 
 <br/><br/>
 
-🌱 **learn** &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 **explore** &nbsp;&nbsp; • &nbsp;&nbsp; 💡 **build** &nbsp;&nbsp; • &nbsp;&nbsp; 🚀 **ship**
+ **learn** &nbsp;&nbsp; • &nbsp;&nbsp;  **explore** &nbsp;&nbsp; • &nbsp;&nbsp;  **build** &nbsp;&nbsp; • &nbsp;&nbsp;  **ship**
 
 <br/>
 
