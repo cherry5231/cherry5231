@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20there,%20I'm%20Charan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20there,%20I'm%20Charan%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🧭 About Me
+##  About Me
 
 <table>
 <tr>
@@ -36,21 +36,21 @@ I enjoy turning ideas into functional products, learning new technologies, and c
 </tr>
 </table>
 
-- 🔭 Frontend development — responsive, accessible, component-driven UIs
-- ⚙️ Backend & API development — services that connect apps to data
-- 📊 Data analysis & visualization — finding the story in the numbers
-- 🤖 AI integration — making applications smarter and more personal
-- 🧹 Clean, maintainable software design
+-  Frontend development — responsive, accessible, component-driven UIs
+-  Backend & API development — services that connect apps to data
+-  Data analysis & visualization — finding the story in the numbers
+-  AI integration — making applications smarter and more personal
+-  Clean, maintainable software design
 
 <br/>
 
-## 🛠️ What I Work With
+##  What I Work With
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
@@ -75,7 +75,7 @@ I enjoy turning ideas into functional products, learning new technologies, and c
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white"/>
 
-### 🗄️ Databases
+###  Databases
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
@@ -84,7 +84,7 @@ I enjoy turning ideas into functional products, learning new technologies, and c
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data & Analysis
+### Data & Analysis
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br/>
@@ -95,7 +95,7 @@ I enjoy turning ideas into functional products, learning new technologies, and c
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Integration
+###  AI Integration
 <img src="https://img.shields.io/badge/AI_Powered_Features-6366F1?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intelligent_Search-06B6D4?style=flat-square"/>
 <br/>
@@ -108,19 +108,19 @@ I enjoy turning ideas into functional products, learning new technologies, and c
 
 <br/>
 
-## 🌟 Featured Areas
+##  Featured Areas
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Web Applications
+###  Web Applications
 Responsive apps built with modern frontend frameworks, reusable components, API integrations, and clean, intuitive interfaces.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Data Projects
+###  Data Projects
 Exploratory analysis, visual storytelling, statistical insights, and interactive dashboards built from real-world datasets.
 
 </td>
@@ -128,13 +128,13 @@ Exploratory analysis, visual storytelling, statistical insights, and interactive
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Backend Systems
+###  Backend Systems
 Lightweight, scalable APIs using Python, Flask, Django, and Node.js, backed by solid database design.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI-Enhanced Products
+###  AI-Enhanced Products
 Web experiences enhanced with AI-powered tools, automation, and intelligent workflows.
 
 </td>
@@ -143,14 +143,14 @@ Web experiences enhanced with AI-powered tools, automation, and intelligent work
 
 <br/>
 
-## 🔄 My Development Approach
+##  My Development Approach
 
 ```mermaid
 graph LR
     A[🔍 Understand<br/>the Problem] --> B[📝 Plan<br/>the Solution]
-    B --> C[⚒️ Build with Clean<br/>& Reusable Code]
-    C --> D[🧪 Test, Analyze<br/>& Improve]
-    D --> E[🚀 Deliver a Useful<br/>Experience]
+    B --> C[ Build with Clean<br/>& Reusable Code]
+    C --> D[ Test, Analyze<br/>& Improve]
+    D --> E[ Deliver a Useful<br/>Experience]
 
     style A fill:#6366F1,stroke:#333,stroke-width:1px,color:#fff
     style B fill:#7C6EF6,stroke:#333,stroke-width:1px,color:#fff
@@ -163,13 +163,13 @@ graph LR
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🌐 Project Name
+###  Project Name
 A short description of what the project does and the problem it solves.
 
 **Built with:** `React` `TypeScript` `Node.js` `REST API`
@@ -180,7 +180,7 @@ A short description of what the project does and the problem it solves.
 </td>
 <td width="33%" valign="top">
 
-### 📊 Project Name
+###  Project Name
 A data analysis/visualization project that transforms raw data into meaningful insights.
 
 **Built with:** `Python` `Pandas` `NumPy` `Matplotlib`
@@ -190,7 +190,7 @@ A data analysis/visualization project that transforms raw data into meaningful i
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Project Name
+###  Project Name
 An AI-enhanced application demonstrating how intelligent features can improve a web experience.
 
 **Built with:** `Next.js` `Python` `API` `Firebase`
@@ -203,7 +203,7 @@ An AI-enhanced application demonstrating how intelligent features can improve a 
 
 <br/>
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -218,7 +218,7 @@ An AI-enhanced application demonstrating how intelligent features can improve a 
 
 <br/>
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <img src="https://img.shields.io/badge/-Production--ready%20Full--stack%20Apps-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/-System%20Design%20%26%20Backend%20Architecture-06B6D4?style=flat-square"/>
@@ -228,7 +228,7 @@ An AI-enhanced application demonstrating how intelligent features can improve a 
 
 <br/><br/>
 
-## 💭 Beyond Code
+##  Beyond Code
 
 > Good software is not only about writing code — it is about understanding people, solving meaningful problems, and creating experiences that feel simple.
 
@@ -236,7 +236,7 @@ When I'm not building applications, I enjoy exploring new technologies, experime
 
 <br/>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
