@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151022"/><stop offset=".55" stop-color="#5C3A79"/><stop offset="1" stop-color="#D59DBA"/></linearGradient></defs>
+<rect width="900" height="420" rx="28" fill="url(#g)"/>
+<rect x="65" y="65" width="770" height="290" rx="20" fill="#0D1118" opacity=".92"/>
+<text x="100" y="125" fill="#EAC9DE" font-family="sans-serif" font-size="25" font-weight="700">CAREER ROI</text>
+<text x="100" y="160" fill="#9D9AA9" font-family="sans-serif" font-size="15">Certification • Income • Payback</text>
+<path d="M110 290 L220 265 L325 278 L430 220 L545 240 L650 180 L775 145" fill="none" stroke="#DCA9C5" stroke-width="7" stroke-linecap="round"/>
+<circle cx="650" cy="180" r="9" fill="#FFF"/>
+<rect x="100" y="205" width="85" height="10" rx="5" fill="#4C3563"/><rect x="205" y="205" width="125" height="10" rx="5" fill="#6B4A83"/>
+</svg>

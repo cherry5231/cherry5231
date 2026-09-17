@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#101827"/><stop offset=".5" stop-color="#25597A"/><stop offset="1" stop-color="#A36EA0"/></linearGradient></defs>
+<rect width="900" height="420" rx="28" fill="url(#g)"/>
+<path d="M0 330 C180 240 260 360 420 285 S670 210 900 300 L900 420 L0 420 Z" fill="#0C1118" opacity=".72"/>
+<g fill="none" stroke="#D8B7D9" stroke-width="5">
+<path d="M115 275 C190 190 265 220 330 150"/>
+<path d="M330 150 C400 85 500 125 560 205"/>
+<path d="M560 205 C635 275 710 215 790 145"/>
+</g>
+<g fill="#FFF"><circle cx="115" cy="275" r="11"/><circle cx="330" cy="150" r="11"/><circle cx="560" cy="205" r="11"/><circle cx="790" cy="145" r="11"/></g>
+<text x="80" y="100" fill="#FFF" font-family="sans-serif" font-size="31" font-weight="700">CAREERQUEST</text>
+<text x="80" y="136" fill="#DFD2E5" font-family="sans-serif" font-size="15">Roadmaps • Exploration • Learning paths</text>
+</svg>

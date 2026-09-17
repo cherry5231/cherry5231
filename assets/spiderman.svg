@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#150D18"/><stop offset=".45" stop-color="#5A1529"/><stop offset="1" stop-color="#171E48"/></linearGradient></defs>
+<rect width="900" height="420" rx="28" fill="url(#g)"/>
+<g opacity=".45" stroke="#E5A7B8" stroke-width="2" fill="none">
+<path d="M450 210 L80 55 M450 210 L160 10 M450 210 L285 0 M450 210 L615 0 M450 210 L740 10 M450 210 L820 55"/>
+<circle cx="450" cy="210" r="140"/><circle cx="450" cy="210" r="90"/>
+</g>
+<text x="70" y="110" fill="#FFF" font-family="sans-serif" font-size="36" font-weight="800">SPIDER-MAN</text>
+<text x="70" y="148" fill="#E8C3D3" font-family="sans-serif" font-size="15">Interactive web experience</text>
+</svg>

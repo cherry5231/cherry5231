@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11131D"/><stop offset=".45" stop-color="#3B274E"/><stop offset="1" stop-color="#8C5D87"/></linearGradient></defs>
+<rect width="900" height="420" rx="28" fill="url(#g)"/>
+<rect x="90" y="72" width="720" height="276" rx="22" fill="#0B0F15"/>
+<rect x="125" y="115" width="250" height="54" rx="16" fill="#2C2140"/>
+<rect x="525" y="182" width="235" height="54" rx="16" fill="#5D3D73"/>
+<rect x="150" y="255" width="300" height="54" rx="16" fill="#221A30"/>
+<circle cx="115" cy="96" r="5" fill="#D9A9C9"/><circle cx="135" cy="96" r="5" fill="#D9A9C9"/><circle cx="155" cy="96" r="5" fill="#D9A9C9"/>
+<text x="90" y="55" fill="#F0D8EA" font-family="sans-serif" font-size="24" font-weight="700">FLASK CHAT</text>
+</svg>
