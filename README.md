@@ -1,261 +1,256 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20there,%20I'm%20Charan%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=220&section=header&text=Charan%20%E2%9C%A9&fontSize=48&fontColor=5C5470&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20full-stack%20developer%20%C2%B7%20data%20enthusiast&descAlignY=62&descSize=17&fontFamily=Georgia" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/cherry5231">
-  <img src="https://img.shields.io/badge/GitHub-cherry5231-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-username">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<i>⋆｡°✩ a little corner of the internet where code meets calm ✩°｡⋆</i>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+thoughtful+web+experiences...;Turning+data+into+decisions...;Shipping+AI-powered+products...&font=Fira%20Code&center=true&width=560&height=45&color=6366F1&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=3200&pause=900&color=A78BBA&center=true&vCenter=true&width=560&lines=building+thoughtful+web+experiences...;turning+quiet+data+into+clear+stories...;weaving+ai+into+everyday+products..." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-FBE4E8?style=for-the-badge&logoColor=5C5470&labelColor=FBE4E8&color=FBE4E8" alt="GitHub" height="34"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E6D9F2?style=for-the-badge&logoColor=5C5470&labelColor=E6D9F2&color=E6D9F2" alt="Email" height="34"/></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-D6E8EE?style=for-the-badge&logoColor=5C5470&labelColor=D6E8EE&color=D6E8EE" alt="LinkedIn" height="34"/></a>
 
 </div>
 
 <br/>
 
-##  About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=3&width=100%" width="100%"/>
 
-<table>
+<br/>
+
+## ⋆ about me
+
+<div align="center">
+<table width="90%">
 <tr>
-<td>
+<td align="center">
 
-I'm an aspiring software engineer who loves building **modern, reliable, and user-focused** applications. My work sits at the intersection of frontend engineering, backend systems, data analysis, and AI-powered experiences.
-
-I enjoy turning ideas into functional products, learning new technologies, and continuously improving the way I build software.
+<i>I'm an aspiring software engineer who loves building modern, reliable, and quietly delightful applications —</i>
+<br/><br/>
+<i>somewhere between clean interfaces, thoughtful backends, honest data, and a little bit of ai magic.</i>
 
 </td>
 </tr>
 </table>
-
--  Frontend development — responsive, accessible, component-driven UIs
--  Backend & API development — services that connect apps to data
--  Data analysis & visualization — finding the story in the numbers
--  AI integration — making applications smarter and more personal
--  Clean, maintainable software design
+</div>
 
 <br/>
-
-##  What I Work With
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-###  Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white"/>
-
-###  Databases
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Data & Analysis
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-###  AI Integration
-<img src="https://img.shields.io/badge/AI_Powered_Features-6366F1?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intelligent_Search-06B6D4?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/Text_Processing-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/API_Integrations-EC4899?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-##  Featured Areas
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-###  Web Applications
-Responsive apps built with modern frontend frameworks, reusable components, API integrations, and clean, intuitive interfaces.
-
-</td>
-<td width="50%" valign="top">
-
-###  Data Projects
-Exploratory analysis, visual storytelling, statistical insights, and interactive dashboards built from real-world datasets.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  Backend Systems
-Lightweight, scalable APIs using Python, Flask, Django, and Node.js, backed by solid database design.
-
-</td>
-<td width="50%" valign="top">
-
-###  AI-Enhanced Products
-Web experiences enhanced with AI-powered tools, automation, and intelligent workflows.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-##  My Development Approach
-
-```mermaid
-graph LR
-    A[🔍 Understand<br/>the Problem] --> B[📝 Plan<br/>the Solution]
-    B --> C[ Build with Clean<br/>& Reusable Code]
-    C --> D[ Test, Analyze<br/>& Improve]
-    D --> E[ Deliver a Useful<br/>Experience]
-
-    style A fill:#6366F1,stroke:#333,stroke-width:1px,color:#fff
-    style B fill:#7C6EF6,stroke:#333,stroke-width:1px,color:#fff
-    style C fill:#8B77F9,stroke:#333,stroke-width:1px,color:#fff
-    style D fill:#4FA8D8,stroke:#333,stroke-width:1px,color:#fff
-    style E fill:#06B6D4,stroke:#333,stroke-width:1px,color:#fff
-```
-
-**I value:** Simple & maintainable solutions · Responsive & accessible interfaces · Clear project structure · Practical problem-solving · Continuous learning · Good user experience
-
-<br/>
-
-##  Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-###  Project Name
-A short description of what the project does and the problem it solves.
-
-**Built with:** `React` `TypeScript` `Node.js` `REST API`
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="33%" valign="top">
-
-###  Project Name
-A data analysis/visualization project that transforms raw data into meaningful insights.
-
-**Built with:** `Python` `Pandas` `NumPy` `Matplotlib`
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-
-</td>
-<td width="33%" valign="top">
-
-###  Project Name
-An AI-enhanced application demonstrating how intelligent features can improve a web experience.
-
-**Built with:** `Next.js` `Python` `API` `Firebase`
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-##  GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry5231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="39%" />
+🌸 &nbsp; frontend development — interfaces that feel calm to use &nbsp; 🌸
 
-<br/>
+🤍 &nbsp; backend & api development — the quiet plumbing that just works &nbsp; 🤍
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry5231&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" width="60%" />
+🌿 &nbsp; data analysis & visualization — finding the story inside the numbers &nbsp; 🌿
+
+✩ &nbsp; ai integration — making products feel a little more human &nbsp; ✩
 
 </div>
 
 <br/>
 
-##  Currently Learning
+## ⋆ what i work with
 
-<img src="https://img.shields.io/badge/-Production--ready%20Full--stack%20Apps-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/-System%20Design%20%26%20Backend%20Architecture-06B6D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Better%20Data%20Visualizations-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Practical%20AI%20Integrations-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Scalable%20%26%20Maintainable%20Code-10B981?style=flat-square"/>
+<div align="center">
+
+**frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-FBE4E8?style=flat-square&logoColor=5C5470&color=FBE4E8"/> <img src="https://img.shields.io/badge/Angular-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Vue.js-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Next.js-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/TypeScript-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/JavaScript-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/CSS3-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Tailwind_CSS-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Bootstrap-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/>
 
 <br/><br/>
 
-##  Beyond Code
+**backend & databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Python-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Flask-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Django-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/REST_APIs-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/SQLite-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Firebase-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/>
 
-> Good software is not only about writing code — it is about understanding people, solving meaningful problems, and creating experiences that feel simple.
+<br/><br/>
+
+**data & ai**
+<br/>
+<img src="https://img.shields.io/badge/NumPy-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Pandas-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Matplotlib-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Seaborn-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Plotly-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/AI_Integration-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=3&width=100%" width="100%"/>
+
+## ⋆ featured areas
+
+<div align="center">
+<table width="90%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+🤍 **web applications**
+<br/>
+<sub>responsive apps built with modern frameworks, reusable components, and clean, intuitive interfaces</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+🌿 **data projects**
+<br/>
+<sub>exploratory analysis, visual storytelling, and interactive dashboards from real-world datasets</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+🌸 **backend systems**
+<br/>
+<sub>lightweight, scalable apis using python, flask, django & node, backed by solid database design</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+✩ **ai-enhanced products**
+<br/>
+<sub>web experiences enhanced with ai-powered tools, automation, and intelligent workflows</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## ⋆ how i build
+
+```mermaid
+graph LR
+    A[understand] --> B[plan]
+    B --> C[build gently]
+    C --> D[test & refine]
+    D --> E[deliver]
+
+    style A fill:#FBE4E8,stroke:#5C5470,stroke-width:1px,color:#5C5470
+    style B fill:#F3DCEC,stroke:#5C5470,stroke-width:1px,color:#5C5470
+    style C fill:#E6D9F2,stroke:#5C5470,stroke-width:1px,color:#5C5470
+    style D fill:#DCE0F0,stroke:#5C5470,stroke-width:1px,color:#5C5470
+    style E fill:#D6E8EE,stroke:#5C5470,stroke-width:1px,color:#5C5470
+```
+
+<div align="center">
+<sub>simple & maintainable &nbsp;·&nbsp; responsive & accessible &nbsp;·&nbsp; clear structure &nbsp;·&nbsp; practical problem-solving &nbsp;·&nbsp; continuous learning</sub>
+</div>
+
+<br/>
+
+## ⋆ featured projects
+
+<div align="center">
+<table width="95%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+🌸 **Project Name**
+<br/>
+<sub>a short description of what the project does and the problem it solves</sub>
+<br/><br/>
+<sub><i>react · typescript · node.js · rest api</i></sub>
+<br/><br/>
+[code](https://github.com) · [live demo](#)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🌿 **Project Name**
+<br/>
+<sub>a data analysis / visualization project that turns raw data into meaningful insight</sub>
+<br/><br/>
+<sub><i>python · pandas · numpy · matplotlib</i></sub>
+<br/><br/>
+[code](https://github.com)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+✩ **Project Name**
+<br/>
+<sub>an ai-enhanced application showing how intelligent features improve a web experience</sub>
+<br/><br/>
+<sub><i>next.js · python · api · firebase</i></sub>
+<br/><br/>
+[code](https://github.com)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=3&width=100%" width="100%"/>
+
+## ⋆ github, softly
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&hide_border=true&bg_color=FFFDFB&title_color=A78BBA&icon_color=D9A8B3&text_color=5C5470&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry5231&layout=compact&hide_border=true&bg_color=FFFDFB&title_color=A78BBA&text_color=5C5470&border_radius=12" width="38%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry5231&hide_border=true&background=FFFDFB&ring=D9A8B3&fire=A78BBA&currStreakLabel=A78BBA&sideLabels=5C5470&currStreakNum=5C5470&sideNums=5C5470&dates=5C5470&border_radius=12" width="55%" />
+
+</div>
+
+<br/>
+
+## ⋆ currently learning
+
+<div align="center">
+<sub>production-ready full-stack apps &nbsp;·&nbsp; system design & backend architecture &nbsp;·&nbsp; better data visualizations &nbsp;·&nbsp; practical ai integrations &nbsp;·&nbsp; scalable, maintainable code</sub>
+</div>
+
+<br/>
+
+## ⋆ beyond code
+
+<div align="center">
+<table width="80%"><tr><td align="center">
+
+<i>"good software is not only about writing code —<br/>it is about understanding people, solving meaningful problems,<br/>and creating experiences that feel simple."</i>
+
+</td></tr></table>
+</div>
+
+<br/>
 
 When I'm not building applications, I enjoy exploring new technologies, experimenting with ideas, analyzing data, and finding better ways to solve everyday problems.
 
 <br/>
 
-##  Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=3&width=100%" width="100%"/>
+
+## ⋆ let's connect
 
 <div align="center">
 
-I'm open to learning opportunities, collaborations, interesting projects, and conversations about software development.
-
-<a href="https://github.com/cherry5231">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-username">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+open to learning opportunities, collaborations, and conversations about software development 🤍
 
 <br/><br/>
 
-### *"Build with curiosity. Improve with consistency."*
+<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-FBE4E8?style=for-the-badge&color=FBE4E8&logoColor=5C5470" height="36"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E6D9F2?style=for-the-badge&color=E6D9F2&logoColor=5C5470" height="36"/></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-D6E8EE?style=for-the-badge&color=D6E8EE&logoColor=5C5470" height="36"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<i>⋆｡°✩ build with curiosity, improve with consistency ✩°｡⋆</i>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=110&section=footer" width="100%"/>
 
 </div>
