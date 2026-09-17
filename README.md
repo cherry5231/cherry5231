@@ -1,309 +1,408 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,50:7B4B94,100:F2A9A0&height=230&section=header&text=Welcome%20to%20Charan's%20GitHub&fontSize=34&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=software%20engineer%20%C2%B7%20full-stack%20developer%20%C2%B7%20data%20enthusiast&descAlignY=58&descSize=16&descColor=F2E9E4" width="100%"/>
+<!-- HERO -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16121F,45:34234F,75:6E4B83,100:C58FA6&height=240&section=header&text=CHARAN%20K.&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=60&descSize=17&descColor=EADFEB" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=900&color=B98BA6&center=true&vCenter=true&width=560&lines=building+thoughtful+web+experiences...;turning+quiet+data+into+clear+stories...;weaving+ai+into+everyday+products..." alt="Typing SVG" />
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1000&color=C99BC5&center=true&vCenter=true&width=650&lines=building+useful+things+for+the+web...;turning+ideas+into+real+applications...;exploring+AI%2C+data%2C+and+modern+development...;learning%2C+building%2C+and+improving+every+day..." alt="Typing SVG"/>
 
-<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-F2E9E4?style=for-the-badge&logoColor=3E1E3E&color=F2E9E4" alt="GitHub" height="32"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E7D8E9?style=for-the-badge&logoColor=3E1E3E&color=E7D8E9" alt="Email" height="32"/></a>
-<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-DCE3EE?style=for-the-badge&logoColor=3E1E3E&color=DCE3EE" alt="LinkedIn" height="32"/></a>
+<br><br>
+
+<a href="https://github.com/cherry5231">
+<img src="https://img.shields.io/badge/GitHub-16121F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="mailto:kattacharan10flasmvp@gmail.com">
+<img src="https://img.shields.io/badge/Email-34234F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=cherry5231&style=flat-square&color=8F6A9E&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+> whoami
 
-## ⋆ about me
+<div align="center">
 
-<table width="100%">
+<table>
 <tr>
 <td width="60%" valign="top">
 
-Hello! I'm **Charan** 👋, an aspiring software engineer who loves building modern, reliable, and quietly delightful applications — somewhere between clean interfaces, thoughtful backends, honest data, and a little bit of AI magic.
+Hey, I'm Charan 👋
 
-&nbsp;
+I'm an aspiring Full-Stack Developer who enjoys turning ideas into functional, polished applications.
 
-🎓&nbsp; Studying **[Your Degree]** at **[Your University]**
+I like working across the stack — from designing responsive interfaces to building APIs, connecting databases, exploring data, and experimenting with AI-powered features.
 
-💼&nbsp; Currently focused on **full-stack development** & **AI-powered features**
+I'm especially interested in creating software that is:
 
-🌱&nbsp; Learning something new about **[system design / a language / a tool]** every week
+🧩 practical
 
-🎯&nbsp; Goal: ship **production-ready, user-first** software
+⚡ fast and responsive
 
-♟️&nbsp; Outside of code: **[a hobby — chess, music, gaming, reading...]**
+🎨 clean and intuitive
 
-📫&nbsp; Reach me at **your-email@example.com**
+🔐 reliable
+
+📊 data-informed
+
+🤖 AI-enhanced when it actually adds value
+
+Currently, I'm focused on strengthening my full-stack development skills while exploring AI/ML, data visualization, backend architecture, and modern web technologies.
 
 </td>
-<td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2600&pause=1200&color=B98BA6&center=true&vCenter=true&multiline=true&width=280&height=90&lines=%22code+with+curiosity%22;%22ship+with+care%22;%22learn+something+new+daily%22" />
+<td width="40%" align="center">
 
-<br/>
+┌─────────────────────────┐
+│                         │
+│      CHARAN K.          │
+│                         │
+│  Full-Stack Developer   │
+│  AI / Data Enthusiast   │
+│                         │
+│  Build → Learn → Ship   │
+│                         │
+└─────────────────────────┘
 
-<img src="https://skillicons.dev/icons?i=github,vscode,git,figma&theme=light" />
+<br>
+
+💻 Build things
+📚 Learn continuously
+📊 Understand data
+🤖 Explore AI
+🚀 Ship projects
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
+
+> tech_stack
 
 <div align="center">
 
-🌸&nbsp; **frontend** — interfaces that feel calm to use &nbsp;|&nbsp;
-🤍&nbsp; **backend & apis** — the quiet plumbing that just works &nbsp;|&nbsp;
-🌿&nbsp; **data** — finding the story inside the numbers &nbsp;|&nbsp;
-✩&nbsp; **ai** — making products feel a little more human
+🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+
+<br><br>
+
+⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,flask,django&theme=dark" />
+
+<br><br>
+
+🗄️ Databases & Services
+
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase&theme=dark" />
+
+<br><br>
+
+📊 Data & Visualization
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Matplotlib-34234F?style=for-the-badge&logo=plotly&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Seaborn-34234F?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Plotly-34234F?style=for-the-badge&logo=plotly&logoColor=FFFFFF"/>
+
+<br><br>
+
+🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
 
 </div>
 
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2A9A0,50:B98BA6,100:7B4B94&height=3&width=760" />
-</p>
-
-## ⋆ technologies
+> what_i_build
 
 <div align="center">
 
-<sub>**frontend**</sub>
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=101010"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101010"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br/><br/>
-
-<sub>**backend & databases**</sub>
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/REST_APIs-B98BA6?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=101010"/>
-
-<br/><br/>
-
-<sub>**data, ai & tools**</sub>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/AI_Integration-7B4B94?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## ⋆ featured areas
-
-<div align="center">
 <table width="90%">
+
 <tr>
-<td width="50%" valign="top" align="center">
 
-🤍 **web applications**
-<br/>
-<sub>responsive apps built with modern frameworks, reusable components, and clean, intuitive interfaces</sub>
+<td width="50%" align="center">
 
-</td>
-<td width="50%" valign="top" align="center">
+🌐 Web Applications
 
-🌿 **data projects**
-<br/>
-<sub>exploratory analysis, visual storytelling, and interactive dashboards from real-world datasets</sub>
+Building responsive applications with modern frontend frameworks, reusable components, APIs, authentication, and real-world workflows.
 
 </td>
+
+<td width="50%" align="center">
+
+⚙️ Backend Systems
+
+Creating REST APIs, database-backed applications, authentication systems, and server-side functionality using Python and Node.js.
+
+</td>
+
 </tr>
-<tr><td colspan="2"><br/></td></tr>
+
 <tr>
-<td width="50%" valign="top" align="center">
 
-🌸 **backend systems**
-<br/>
-<sub>lightweight, scalable apis using python, flask, django & node, backed by solid database design</sub>
+<td width="50%" align="center">
 
-</td>
-<td width="50%" valign="top" align="center">
+📊 Data Projects
 
-✩ **ai-enhanced products**
-<br/>
-<sub>web experiences enhanced with ai-powered tools, automation, and intelligent workflows</sub>
+Working with datasets to clean, analyze, visualize, and communicate useful information through dashboards and interactive visualizations.
 
 </td>
+
+<td width="50%" align="center">
+
+🤖 AI-Enhanced Products
+
+Exploring practical ways to integrate AI into applications, automation workflows, and everyday developer tools.
+
+</td>
+
 </tr>
+
 </table>
-</div>
-
-<br/>
-
-## ⋆ how i build
-
-```mermaid
-graph LR
-    A[understand] --> B[plan]
-    B --> C[build gently]
-    C --> D[test & refine]
-    D --> E[deliver]
-
-    style A fill:#F2A9A0,stroke:#3E1E3E,stroke-width:1px,color:#3E1E3E
-    style B fill:#E3A6BE,stroke:#3E1E3E,stroke-width:1px,color:#3E1E3E
-    style C fill:#B98BA6,stroke:#3E1E3E,stroke-width:1px,color:#fff
-    style D fill:#9A7FB0,stroke:#3E1E3E,stroke-width:1px,color:#fff
-    style E fill:#7B4B94,stroke:#3E1E3E,stroke-width:1px,color:#fff
-```
-
-<div align="center">
-<sub>simple & maintainable &nbsp;·&nbsp; responsive & accessible &nbsp;·&nbsp; clear structure &nbsp;·&nbsp; practical problem-solving &nbsp;·&nbsp; continuous learning</sub>
-</div>
-
-<br/>
-
-## ⋆ featured projects
-
-<div align="center">
-<table width="95%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-🌸 **Project Name**
-<br/>
-<sub>a short description of what the project does and the problem it solves</sub>
-<br/><br/>
-<sub><i>react · typescript · node.js · rest api</i></sub>
-<br/><br/>
-[code](https://github.com) · [live demo](#)
-
-</td>
-<td width="33%" valign="top" align="center">
-
-🌿 **Project Name**
-<br/>
-<sub>a data analysis / visualization project that turns raw data into meaningful insight</sub>
-<br/><br/>
-<sub><i>python · pandas · numpy · matplotlib</i></sub>
-<br/><br/>
-[code](https://github.com)
-
-</td>
-<td width="33%" valign="top" align="center">
-
-✩ **Project Name**
-<br/>
-<sub>an ai-enhanced application showing how intelligent features improve a web experience</sub>
-<br/><br/>
-<sub><i>next.js · python · api · firebase</i></sub>
-<br/><br/>
-[code](https://github.com)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B4B94,50:B98BA6,100:F2A9A0&height=3&width=760" />
-</p>
-
-## ⋆ github, softly
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=FFF8F0&title_color=7B4B94&icon_color=B98BA6&text_color=3E1E3E&border_radius=14&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry5231&layout=compact&hide_border=true&bg_color=FFF8F0&title_color=7B4B94&text_color=3E1E3E&border_radius=14&cache_seconds=86400" width="38%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=cherry5231&hide_border=true&background=FFF8F0&ring=B98BA6&fire=7B4B94&currStreakLabel=7B4B94&sideLabels=3E1E3E&currStreakNum=3E1E3E&sideNums=3E1E3E&dates=3E1E3E&border_radius=14" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cherry5231&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="80%" />
 
 </div>
 
-> if a card above ever shows a broken image, it's a free stats API being briefly rate-limited — a refresh usually brings it right back.
+> featured_projects
 
-<br/>
+💼 Career ROI Calculator
 
-## ⋆ currently learning
+A web application for understanding the potential return on investment of professional certifications and career decisions.
+
+The project focuses on turning career-related data into a simple, understandable experience.
+
+Stack
+
+React TypeScript Vite Supabase Vercel
+
+🔗 Live: https://career-roi-calculator.vercel.app/
+
+🗺️ CareerQuest
+
+A career exploration and roadmap application designed to help users discover possible learning paths.
+
+The project combines structured career information with an interactive web experience.
+
+Stack
+
+React TypeScript Expo Firebase
+
+💬 Flask Chat Application
+
+A real-time style chat platform focused on private rooms, authentication, and backend-driven communication.
+
+Features include room-based conversations, authentication, database persistence, and private room access.
+
+Stack
+
+Python Flask SQLite SQLAlchemy
+
+🕷️ Spider-Man Game Website
+
+An interactive Spider-Man themed web experience with responsive layouts and mobile-friendly controls.
+
+Built as an exploration of interactive frontend design and responsive web development.
+
+Stack
+
+HTML CSS JavaScript
 
 <div align="center">
-<sub>production-ready full-stack apps &nbsp;·&nbsp; system design & backend architecture &nbsp;·&nbsp; better data visualizations &nbsp;·&nbsp; practical ai integrations &nbsp;·&nbsp; scalable, maintainable code</sub>
+
+<a href="https://github.com/cherry5231?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-34234F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
 </div>
 
-<br/>
-
-## ⋆ beyond code
+> development_philosophy
 
 <div align="center">
-<table width="80%"><tr><td align="center">
 
-<i>"good software is not only about writing code —<br/>it is about understanding people, solving meaningful problems,<br/>and creating experiences that feel simple."</i>
+                ┌──────────────┐
+                │  UNDERSTAND   │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │     PLAN     │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │     BUILD    │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │ TEST & REFINE│
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │     SHIP     │
+                └──────────────┘
 
-</td></tr></table>
 </div>
 
-<br/>
+I believe good development is less about writing the most code and more about understanding the problem first.
+
+My usual approach:
+
+Understand → Plan → Build → Test → Refine → Ship
+
+I care about readable code, responsive interfaces, useful features, and building things that solve an actual problem.
+
+> github_activity
 
 <div align="center">
 
-🔭&nbsp; exploring new technologies and frameworks &nbsp;·&nbsp;
-🧪&nbsp; experimenting with side-project ideas
-<br/>
-📈&nbsp; analyzing data just for the fun of finding patterns &nbsp;·&nbsp;
-🧩&nbsp; finding better ways to solve everyday problems
-<br/>
-♟️&nbsp; **[a hobby of yours]** &nbsp;·&nbsp; 🎧&nbsp; **[another one]**
+<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&hide_border=true&bg_color=16121F&title_color=C99BC5&icon_color=B98BA6&text_color=EADFEB&border_radius=12&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry5231&hide_border=true&background=16121F&ring=C99BC5&fire=B98BA6&currStreakLabel=C99BC5&sideLabels=EADFEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AFA4B8&border_radius=12" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherry5231&bg_color=16121F&color=EADFEB&line=C99BC5&point=FFFFFF&area=true&hide_border=true" width="94%" />
 
 </div>
 
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2A9A0,50:B98BA6,100:7B4B94&height=3&width=760" />
-</p>
-
-## ⋆ let's connect
+> github_metrics
 
 <div align="center">
 
-open to learning opportunities, collaborations, and conversations about software development 🤍
+<img src="https://github-profile-trophy.vercel.app/?username=cherry5231&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-F2E9E4?style=for-the-badge&color=F2E9E4&logoColor=3E1E3E" height="36"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E7D8E9?style=for-the-badge&color=E7D8E9&logoColor=3E1E3E" height="36"/></a>
-<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-DCE3EE?style=for-the-badge&color=DCE3EE&logoColor=3E1E3E" height="36"/></a>
+> currently_learning
 
-<br/><br/>
+<div align="center">
 
-<i>⋆｡°✩ build with curiosity, improve with consistency ✩°｡⋆</i>
+Area
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4B94,50:B98BA6,100:F2A9A0&height=120&section=footer" width="100%"/>
+Focus
+
+🌐 Full Stack
+
+Building production-ready web applications
+
+⚙️ Backend
+
+APIs, architecture, authentication & databases
+
+🧠 AI / ML
+
+Practical AI integrations and machine learning fundamentals
+
+📊 Data
+
+Better analysis, visualization & data storytelling
+
+🏗️ System Design
+
+Learning how larger applications are structured
+
+🚀 Deployment
+
+Building, deploying and maintaining real projects
+
+</div>
+
+> beyond_code
+
+<div align="center">
+
+"Good software isn't just about writing code.
+
+It's about understanding problems,
+learning continuously,
+and building something useful."
+
+<br>
+
+🌱 Learning new technologies
+🔍 Exploring interesting problems
+📊 Experimenting with data
+💡 Turning ideas into projects
+🛠️ Improving through hands-on development
+
+</div>
+
+> a_little_about_my_work
+
+Frontend        █████████████████░░░   Building
+Backend         ███████████████░░░░░   Building
+Databases       ██████████████░░░░░░   Learning
+Data            █████████████░░░░░░░   Exploring
+AI / ML         ███████████░░░░░░░░░   Exploring
+System Design   ████████░░░░░░░░░░░░   Learning
+
+These aren't skill ratings — just a snapshot of the areas I'm currently spending time on.
+
+> open_to
+
+<div align="center">
+
+🤝 Collaborations
+
+  •  
+
+💻 Development Projects
+
+  •  
+
+🎓 Learning Opportunities
+
+  •  
+
+🚀 Internships & Early-Career Opportunities
+
+  •  
+
+🧠 Interesting Technical Problems
+
+</div>
+
+> let's_connect
+
+<div align="center">
+
+If you're working on something interesting, building a project, or simply want to talk about software development, feel free to reach out.
+
+<br>
+
+<a href="https://github.com/cherry5231">
+<img src="https://img.shields.io/badge/GitHub-16121F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="mailto:kattacharan10flasmvp@gmail.com">
+<img src="https://img.shields.io/badge/Email-34234F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+📧 kattacharan10flasmvp@gmail.com
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C58FA6,50:6E4B83,100:34234F&height=3&width=760" />
+
+<br>
+
+build with curiosity • improve with consistency • ship with purpose
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C58FA6,45:6E4B83,75:34234F,100:16121F&height=140&section=footer" width="100%"/>
 
 </div>
