@@ -87,7 +87,6 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 </div>
 
 ## ✦ tech stack
-## ✦ tech stack
 
 <div align="center">
 
