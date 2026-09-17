@@ -4,12 +4,18 @@
 
 <br/>
 
+<img src="./assets/intro.svg" alt="weaving ai into everyday products" width="70%"/>
+
+<br/>
+
 <a href="https://github.com/cherry5231">
 <img src="https://img.shields.io/badge/GitHub-11151B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:kattacharan10flasmvp@gmail.com">
 <img src="https://img.shields.io/badge/Email-2D193B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://career-roi-calculator.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Project-7C4D91?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -23,13 +29,17 @@
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ about me
 
 <table>
+
 <tr>
+
 <td width="65%" valign="top">
 
 Hey, I'm **Charan** 👋
@@ -41,9 +51,13 @@ I enjoy moving between the frontend and backend: designing responsive interfaces
 ### What I care about
 
 🌐 **Modern web development**  
+
 ⚙️ **Backend systems & APIs**  
+
 🗄️ **Databases & application architecture**  
+
 📊 **Data analysis & visualization**  
+
 🤖 **Practical AI/ML integration**  
 
 I'm learning by building real projects, breaking things, fixing them, and shipping what I can.
@@ -59,13 +73,17 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 <code>BUILD → LEARN → ITERATE</code>
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ tech stack
@@ -93,9 +111,13 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 ### data
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data stack"/>
+
 &nbsp;
+
 <img src="https://img.shields.io/badge/Matplotlib-6E4B83?style=for-the-badge&logo=plotly&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Seaborn-4A315F?style=for-the-badge&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Plotly-8A5E9D?style=for-the-badge&logo=plotly&logoColor=white" />
 
 <br/><br/>
@@ -109,13 +131,17 @@ I'm learning by building real projects, breaking things, fixing them, and shippi
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ selected projects
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="./assets/roi.svg" width="100%" alt="Career ROI Calculator"/>
@@ -129,6 +155,7 @@ A career-focused web application that turns certification, income, cost, and com
 <a href="https://career-roi-calculator.vercel.app/">↗ Live demo</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <img src="./assets/careerquest.svg" width="100%" alt="CareerQuest"/>
@@ -140,9 +167,11 @@ A career exploration and roadmap application built around discovering possible l
 `React` `TypeScript` `Expo` `Firebase`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="./assets/chat.svg" width="100%" alt="Flask Chat"/>
@@ -154,6 +183,7 @@ A room-based chat application with authentication, private room codes, database 
 `Python` `Flask` `SQLite` `SQLAlchemy`
 
 </td>
+
 <td width="50%" valign="top">
 
 <img src="./assets/spiderman.svg" width="100%" alt="Spider-Man project"/>
@@ -165,31 +195,88 @@ An interactive themed web project exploring responsive layouts, frontend interac
 `HTML` `CSS` `JavaScript`
 
 </td>
+
 </tr>
+
 </table>
 
 <div align="center">
+
 <a href="https://github.com/cherry5231?tab=repositories">
+
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-2D193B?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
+
 </div>
 
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ how i build
 
 <div align="center">
 
-| 01 | 02 | 03 | 04 | 05 |
-|:---:|:---:|:---:|:---:|:---:|
-| **UNDERSTAND** | **PLAN** | **BUILD** | **TEST** | **SHIP** |
-| problem first | structure it | make it work | refine it | put it out |
+<table width="100%">
+<tr>
+<td align="center">
+
+**understand**
+
+</td>
+
+<td align="center">
+→
+</td>
+
+<td align="center">
+
+**plan**
+
+</td>
+
+<td align="center">
+→
+</td>
+
+<td align="center">
+
+**build gently**
+
+</td>
+
+<td align="center">
+→
+</td>
+
+<td align="center">
+
+**test & refine**
+
+</td>
+
+<td align="center">
+→
+</td>
+
+<td align="center">
+
+**deliver**
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<sub>problem first • structure it • make it work • refine it • put it out</sub>
+
+<br/><br/>
 
 <sub>clean structure • responsive UI • useful features • readable code • continuous iteration</sub>
 
@@ -202,6 +289,7 @@ An interactive themed web project exploring responsive layouts, frontend interac
 <div align="center">
 
 `FULL-STACK DEVELOPMENT` &nbsp; `BACKEND ARCHITECTURE` &nbsp; `AI / ML`  
+
 `DATA VISUALIZATION` &nbsp; `SYSTEM DESIGN` &nbsp; `DEPLOYMENT`
 
 </div>
@@ -209,7 +297,9 @@ An interactive themed web project exploring responsive layouts, frontend interac
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ beyond code
@@ -219,6 +309,7 @@ An interactive themed web project exploring responsive layouts, frontend interac
 > **build with curiosity · improve with consistency · ship with purpose**
 
 I enjoy experimenting with new technologies, exploring interesting datasets,
+
 turning ideas into projects, and learning through hands-on development.
 
 <br/>
@@ -230,7 +321,9 @@ turning ideas into projects, and learning through hands-on development.
 <br/>
 
 <div align="center">
+
 <img src="./assets/divider.svg" width="90%" alt="divider"/>
+
 </div>
 
 ## ✦ let's connect
@@ -242,10 +335,15 @@ Open to **collaborations, development projects, internships, learning opportunit
 <br/><br/>
 
 <a href="https://github.com/cherry5231">
+
 <img src="https://img.shields.io/badge/GITHUB-11151B?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
+
 <a href="mailto:kattacharan10flasmvp@gmail.com">
+
 <img src="https://img.shields.io/badge/EMAIL-2D193B?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </a>
 
 <br/><br/>
@@ -255,4 +353,5 @@ Open to **collaborations, development projects, internships, learning opportunit
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B6C91,45:5A3D78,75:241536,100:0B0F14&height=130&section=footer" width="100%" alt="footer"/>
+
 </div>
