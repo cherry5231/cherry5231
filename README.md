@@ -1,39 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=220&section=header&text=Charan%20%E2%9C%A9&fontSize=48&fontColor=5C5470&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20full-stack%20developer%20%C2%B7%20data%20enthusiast&descAlignY=62&descSize=17&fontFamily=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,50:7B4B94,100:F2A9A0&height=230&section=header&text=Welcome%20to%20Charan's%20GitHub&fontSize=34&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=software%20engineer%20%C2%B7%20full-stack%20developer%20%C2%B7%20data%20enthusiast&descAlignY=58&descSize=16&descColor=F2E9E4" width="100%"/>
 
 <br/>
 
-<i>⋆｡°✩ a little corner of the internet where code meets calm ✩°｡⋆</i>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=900&color=B98BA6&center=true&vCenter=true&width=560&lines=building+thoughtful+web+experiences...;turning+quiet+data+into+clear+stories...;weaving+ai+into+everyday+products..." alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=3200&pause=900&color=A78BBA&center=true&vCenter=true&width=560&lines=building+thoughtful+web+experiences...;turning+quiet+data+into+clear+stories...;weaving+ai+into+everyday+products..." alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-FBE4E8?style=for-the-badge&logoColor=5C5470&labelColor=FBE4E8&color=FBE4E8" alt="GitHub" height="34"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E6D9F2?style=for-the-badge&logoColor=5C5470&labelColor=E6D9F2&color=E6D9F2" alt="Email" height="34"/></a>
-<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-D6E8EE?style=for-the-badge&logoColor=5C5470&labelColor=D6E8EE&color=D6E8EE" alt="LinkedIn" height="34"/></a>
+<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-F2E9E4?style=for-the-badge&logoColor=3E1E3E&color=F2E9E4" alt="GitHub" height="32"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E7D8E9?style=for-the-badge&logoColor=3E1E3E&color=E7D8E9" alt="Email" height="32"/></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-DCE3EE?style=for-the-badge&logoColor=3E1E3E&color=DCE3EE" alt="LinkedIn" height="32"/></a>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=3&width=100%" width="100%"/>
 
 <br/>
 
 ## ⋆ about me
 
 <div align="center">
-<table width="90%">
+<table width="88%">
 <tr>
 <td align="center">
 
-<i>I'm an aspiring software engineer who loves building modern, reliable, and quietly delightful applications —</i>
-<br/><br/>
-<i>somewhere between clean interfaces, thoughtful backends, honest data, and a little bit of ai magic.</i>
+I'm an aspiring software engineer who loves building **modern, reliable, and quietly delightful** applications — somewhere between clean interfaces, thoughtful backends, honest data, and a little bit of AI magic.
 
 </td>
 </tr>
@@ -44,45 +34,47 @@
 
 <div align="center">
 
-🌸 &nbsp; frontend development — interfaces that feel calm to use &nbsp; 🌸
-
-🤍 &nbsp; backend & api development — the quiet plumbing that just works &nbsp; 🤍
-
-🌿 &nbsp; data analysis & visualization — finding the story inside the numbers &nbsp; 🌿
-
-✩ &nbsp; ai integration — making products feel a little more human &nbsp; ✩
+🌸&nbsp; **frontend** — interfaces that feel calm to use &nbsp;|&nbsp;
+🤍&nbsp; **backend & apis** — the quiet plumbing that just works &nbsp;|&nbsp;
+🌿&nbsp; **data** — finding the story inside the numbers &nbsp;|&nbsp;
+✩&nbsp; **ai** — making products feel a little more human
 
 </div>
 
 <br/>
 
-## ⋆ what i work with
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2A9A0,50:B98BA6,100:7B4B94&height=3&width=760" />
+</p>
+
+## ⋆ technologies
 
 <div align="center">
 
 **frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-FBE4E8?style=flat-square&logoColor=5C5470&color=FBE4E8"/> <img src="https://img.shields.io/badge/Angular-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Vue.js-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Next.js-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/TypeScript-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/JavaScript-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/CSS3-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Tailwind_CSS-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Bootstrap-FBE4E8?style=flat-square&color=FBE4E8&logoColor=5C5470"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,ts,js,html,css,tailwind,bootstrap&theme=light" />
 
 <br/><br/>
 
 **backend & databases**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Python-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Flask-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Django-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/REST_APIs-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/SQLite-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Firebase-E6D9F2?style=flat-square&color=E6D9F2&logoColor=5C5470"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,django,sqlite,firebase&theme=light" />
 
 <br/><br/>
 
 **data & ai**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Pandas-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Matplotlib-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Seaborn-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/Plotly-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/> <img src="https://img.shields.io/badge/AI_Integration-D6E8EE?style=flat-square&color=D6E8EE&logoColor=5C5470"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,numpy,pandas&theme=light" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-F2E9E4?style=flat-square&color=F2E9E4&logoColor=3E1E3E"/>
+<img src="https://img.shields.io/badge/Seaborn-F2E9E4?style=flat-square&color=F2E9E4&logoColor=3E1E3E"/>
+<img src="https://img.shields.io/badge/Plotly-F2E9E4?style=flat-square&color=F2E9E4&logoColor=3E1E3E"/>
+<img src="https://img.shields.io/badge/AI_Integration-F2E9E4?style=flat-square&color=F2E9E4&logoColor=3E1E3E"/>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=3&width=100%" width="100%"/>
 
 ## ⋆ featured areas
 
@@ -135,11 +127,11 @@ graph LR
     C --> D[test & refine]
     D --> E[deliver]
 
-    style A fill:#FBE4E8,stroke:#5C5470,stroke-width:1px,color:#5C5470
-    style B fill:#F3DCEC,stroke:#5C5470,stroke-width:1px,color:#5C5470
-    style C fill:#E6D9F2,stroke:#5C5470,stroke-width:1px,color:#5C5470
-    style D fill:#DCE0F0,stroke:#5C5470,stroke-width:1px,color:#5C5470
-    style E fill:#D6E8EE,stroke:#5C5470,stroke-width:1px,color:#5C5470
+    style A fill:#F2A9A0,stroke:#3E1E3E,stroke-width:1px,color:#3E1E3E
+    style B fill:#E3A6BE,stroke:#3E1E3E,stroke-width:1px,color:#3E1E3E
+    style C fill:#B98BA6,stroke:#3E1E3E,stroke-width:1px,color:#fff
+    style D fill:#9A7FB0,stroke:#3E1E3E,stroke-width:1px,color:#fff
+    style E fill:#7B4B94,stroke:#3E1E3E,stroke-width:1px,color:#fff
 ```
 
 <div align="center">
@@ -192,20 +184,23 @@ graph LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE4E8,50:E6D9F2,100:D6E8EE&height=3&width=100%" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B4B94,50:B98BA6,100:F2A9A0&height=3&width=760" />
+</p>
 
 ## ⋆ github, softly
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&hide_border=true&bg_color=FFFDFB&title_color=A78BBA&icon_color=D9A8B3&text_color=5C5470&border_radius=12" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry5231&layout=compact&hide_border=true&bg_color=FFFDFB&title_color=A78BBA&text_color=5C5470&border_radius=12" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=cherry5231&show_icons=true&hide_border=true&bg_color=FFF8F0&title_color=7B4B94&icon_color=B98BA6&text_color=3E1E3E&border_radius=14&cache_seconds=86400" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cherry5231&hide_border=true&background=FFFDFB&ring=D9A8B3&fire=A78BBA&currStreakLabel=A78BBA&sideLabels=5C5470&currStreakNum=5C5470&sideNums=5C5470&dates=5C5470&border_radius=12" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=cherry5231&hide_border=true&background=FFF8F0&ring=B98BA6&fire=7B4B94&currStreakLabel=7B4B94&sideLabels=3E1E3E&currStreakNum=3E1E3E&sideNums=3E1E3E&dates=3E1E3E&border_radius=14" width="70%" />
 
 </div>
+
+> if a card above ever shows a broken image, it's the free stats API being rate-limited for a moment — refresh the page and it comes back.
 
 <br/>
 
@@ -233,7 +228,9 @@ When I'm not building applications, I enjoy exploring new technologies, experime
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=3&width=100%" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2A9A0,50:B98BA6,100:7B4B94&height=3&width=760" />
+</p>
 
 ## ⋆ let's connect
 
@@ -243,14 +240,14 @@ open to learning opportunities, collaborations, and conversations about software
 
 <br/><br/>
 
-<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-FBE4E8?style=for-the-badge&color=FBE4E8&logoColor=5C5470" height="36"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E6D9F2?style=for-the-badge&color=E6D9F2&logoColor=5C5470" height="36"/></a>
-<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-D6E8EE?style=for-the-badge&color=D6E8EE&logoColor=5C5470" height="36"/></a>
+<a href="https://github.com/cherry5231"><img src="https://img.shields.io/badge/GitHub-F2E9E4?style=for-the-badge&color=F2E9E4&logoColor=3E1E3E" height="36"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E7D8E9?style=for-the-badge&color=E7D8E9&logoColor=3E1E3E" height="36"/></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-DCE3EE?style=for-the-badge&color=DCE3EE&logoColor=3E1E3E" height="36"/></a>
 
 <br/><br/>
 
 <i>⋆｡°✩ build with curiosity, improve with consistency ✩°｡⋆</i>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D6E8EE,50:E6D9F2,100:FBE4E8&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B4B94,50:B98BA6,100:F2A9A0&height=120&section=footer" width="100%"/>
 
 </div>
